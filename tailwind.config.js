@@ -22,7 +22,7 @@ module.exports = {
 
     extend: {
       backgroundImage: {
-        // 'hero': "url('/src/imgs/hero.png')"
+        'place-img': "url('/src/imgs/Bitmap.png')",
       }
     },
   },
